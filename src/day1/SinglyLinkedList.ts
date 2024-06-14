@@ -98,7 +98,6 @@ export default class SinglyLinkedList<T> {
 
         if (!curr) return undefined;
 
-
         return curr.value;
     }
 
