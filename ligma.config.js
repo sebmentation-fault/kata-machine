@@ -2,19 +2,18 @@ module.exports = {
     dsa: [
         // "DFSOnBST",
         // "LRU",
-        "LinearSearchList",
-        "BinarySearchList",
+        // "LinearSearchList", // Done
+        // "BinarySearchList", // Done
         // "TwoCrystalBalls",
-        "BubbleSort",
-        "ArrayList",
+        // "BubbleSort", // Done
+        // "ArrayList", // Done
         // "MazeSolver",
-        "QuickSort",
-        // "BTPreOrder",
-        // "BTInOrder",
-        // "BTPostOrder",
-        // "BTBFS",
+        // "QuickSort", // Done
+        "BTPreOrder",
+        "BTInOrder",
+        "BTPostOrder",
+        "BTBFS",
         // "CompareBinaryTrees",
-        // "DFSOnBST",
         // "DFSGraphList",
         // "Trie",
         // "BFSGraphMatrix",
